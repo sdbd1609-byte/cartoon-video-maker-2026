@@ -1,0 +1,21 @@
+{
+  "title": "The Magic Star",
+  "duration": 30,
+  "width": 720,
+  "height": 1280,
+  "fps": 24,
+  "scenes": [
+    {
+      "text": "A little rabbit finds a glowing star in the forest.",
+      "duration": 10
+    },
+    {
+      "text": "The rabbit follows the star and discovers a magical garden.",
+      "duration": 10
+    },
+    {
+      "text": "The star lights up the sky, and the rabbit happily returns home.",
+      "duration": 10
+    }
+  ]
+}
